@@ -12,7 +12,6 @@
 .pnpm-store/
 .pnpm-debug.log*
 .pnpmfile.cjs
-pnpm-lock.yaml
 .npmrc
 
 # misc

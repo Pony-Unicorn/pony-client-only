@@ -1,6 +1,6 @@
 {
   "name": "@pony/client-only",
-  "version": "1.0.4",
+  "version": "1.0.2",
   "description": "A lightweight React component that renders children only on the client side (SSR safe).",
   "main": "dist/ClientOnly.js",
   "module": "dist/ClientOnly.mjs",
