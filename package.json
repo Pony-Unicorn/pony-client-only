@@ -1,6 +1,6 @@
 {
   "name": "tiny-client-only",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight React component that renders children only on the client side (SSR safe).",
   "main": "dist/ClientOnly.js",
   "module": "dist/ClientOnly.mjs",
