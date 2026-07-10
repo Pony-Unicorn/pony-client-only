@@ -2,6 +2,8 @@
 
 A lightweight React component that renders its children **only on the client side**, helping avoid SSR hydration errors in frameworks like Next.js.
 
+Copied from https://diceui.com/docs/utilities/base/client-only
+
 ## 📦 Installation
 
 ```bash

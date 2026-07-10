@@ -4,13 +4,20 @@
     "module": "ESNext",
     "jsx": "react-jsx",
     "declaration": true,
+    "rootDir": "src",
     "outDir": "dist",
     "esModuleInterop": true,
-    "moduleResolution": "node",
-    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "moduleResolution": "bundler",
+    "lib": [
+      "DOM",
+      "DOM.Iterable",
+      "ESNext"
+    ],
     "skipLibCheck": true,
     "allowSyntheticDefaultImports": true,
     "strict": true
   },
-  "include": ["src"]
+  "include": [
+    "src"
+  ]
 }
